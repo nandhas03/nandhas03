@@ -29,8 +29,8 @@ Pre-Final year @ Mahendra Institution
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandhas03&show_icons=true&locale=en" alt="nandhas03" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandhas03&show_icons=true&locale=en&theme=radical" alt="nandhas03" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandhas03&" alt="nandhas03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandhas03&theme=radical" alt="nandhas03" /></p>
 
 [![Nandha Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandhas03&bg_color=000000&color=ffffff&line=00ff4c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
