@@ -6,11 +6,11 @@ Pre-Final year @ Mahendra Institution
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on NI
 - 🤔 I’m looking Internship for LabVIEW Developer 
-- 💬 Ask me about Tech
+- 💬 Ask me about JAVA
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rexnandhans@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://bit.ly/49UUnM5)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
+- 😄 Pronouns: Nandhu
+- ⚡ Fun fact: I am Crazy.
  
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
@@ -25,7 +25,7 @@ Pre-Final year @ Mahendra Institution
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhas03&label=Profile%20views&color=0e75b6&style=flat" alt="nandhas03" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Consistent👨🏼‍💻📈 :</h3>
 <p align="left">
 </p>
 
