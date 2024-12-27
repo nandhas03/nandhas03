@@ -21,7 +21,7 @@ Pre-Final year @ Mahendra Institution
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![NANDHA KUMAR's GitHub stats]
+[Nandha Kumar S's GitHub stats]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandhas03&label=Profile%20views&color=0e75b6&style=flat" alt="nandhas03" /> </p>
 
@@ -32,5 +32,3 @@ Pre-Final year @ Mahendra Institution
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandhas03&show_icons=true&locale=en&theme=radical" alt="nandhas03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandhas03&theme=radical" alt="nandhas03" /></p>
-
-[![Nandha Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandhas03&bg_color=000000&color=ffffff&line=00ff4c&point=ffffff&area=true&hide_border=true)](https://github.com/nandhas03/github-readme-activity-graph)
